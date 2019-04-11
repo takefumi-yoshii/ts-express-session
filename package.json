@@ -1,5 +1,7 @@
 {
-  "name": "express-first",
+  "name": "ts-express-session",
+  "version": "1.0.0",
+  "author": "takepepe",
   "private": true,
   "scripts": {
     "serve": "ts-node-dev src/server/index.ts",
